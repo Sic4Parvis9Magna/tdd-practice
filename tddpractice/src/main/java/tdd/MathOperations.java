@@ -1,3 +1,5 @@
+package tdd;
+
 public class MathOperations {
     public static int factorial(int value){
         if (value == 0) return 1;
